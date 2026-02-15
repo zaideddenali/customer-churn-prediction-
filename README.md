@@ -75,5 +75,3 @@ The best model (XGBoost) achieved an **F1-score of ~0.77** and **ROC-AUC of ~0.9
 - Day Minutes/Charge
 - International Plan status
 
-## License
-MIT License
